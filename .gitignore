@@ -1,0 +1,9 @@
+cat > .gitignore <<'EOF'
+raw_pdfs/
+processed/
+quarantine/
+validation-reports/
+*.pdf
+*.zip
+__pycache__/
+EOF
