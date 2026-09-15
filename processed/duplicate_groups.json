@@ -1,0 +1,862 @@
+[
+  {
+    "fingerprint": "3a585b9372ec4343e17ad9f6b12c9abad036e942",
+    "canonical_id": "SBI-2023-F18-P001-Q001",
+    "members": [
+      "SBI-2023-F18-P001-Q001",
+      "SBI-2023-F21-P001-Q001"
+    ],
+    "source_answers": [
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "14ef848f8f1a4670a1baca37eacdb1fece10dd7d",
+    "canonical_id": "SBI-2023-F18-P001-Q002",
+    "members": [
+      "SBI-2023-F18-P001-Q002",
+      "SBI-2023-F19-P001-Q002",
+      "SBI-2023-F21-P001-Q002"
+    ],
+    "source_answers": [
+      "A",
+      "A",
+      "A"
+    ]
+  },
+  {
+    "fingerprint": "c0811d8f96c1f3a191eff8f39166a536831d1ecb",
+    "canonical_id": "SBI-2023-F18-P001-Q003",
+    "members": [
+      "SBI-2023-F18-P001-Q003",
+      "SBI-2023-F21-P001-Q003"
+    ],
+    "source_answers": [
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "790fade2aad43c7928cfe64096830a8ce4b9d1d9",
+    "canonical_id": "SBI-2023-F18-P001-Q004",
+    "members": [
+      "SBI-2023-F18-P001-Q004",
+      "SBI-2023-F19-P001-Q004",
+      "SBI-2023-F21-P001-Q004"
+    ],
+    "source_answers": [
+      "D",
+      "D",
+      "D"
+    ]
+  },
+  {
+    "fingerprint": "0f5d003d665f2f8bad7d6837a89a5185c56972d5",
+    "canonical_id": "SBI-2023-F18-P001-Q005",
+    "members": [
+      "SBI-2023-F18-P001-Q005",
+      "SBI-2023-F19-P001-Q005",
+      "SBI-2023-F21-P001-Q005"
+    ],
+    "source_answers": [
+      "B",
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "e8ee0dd2ab3f536738180c514d5a05bfce1c638a",
+    "canonical_id": "SBI-2023-F18-P001-Q006",
+    "members": [
+      "SBI-2023-F18-P001-Q006",
+      "SBI-2023-F19-P001-Q006",
+      "SBI-2023-F21-P001-Q006"
+    ],
+    "source_answers": [
+      "A",
+      "A",
+      "A"
+    ]
+  },
+  {
+    "fingerprint": "0edf73bcea2160fe118909aa8c232236a5ff2579",
+    "canonical_id": "SBI-2023-F18-P001-Q007",
+    "members": [
+      "SBI-2023-F18-P001-Q007",
+      "SBI-2023-F19-P001-Q007",
+      "SBI-2023-F21-P001-Q007"
+    ],
+    "source_answers": [
+      "D",
+      "D",
+      "D"
+    ]
+  },
+  {
+    "fingerprint": "7b1dbc547124f4effa0fbbe28dd2a200d37b3bca",
+    "canonical_id": "SBI-2023-F18-P001-Q008",
+    "members": [
+      "SBI-2023-F18-P001-Q008",
+      "SBI-2023-F19-P001-Q008",
+      "SBI-2023-F21-P001-Q008"
+    ],
+    "source_answers": [
+      "A",
+      "A",
+      "A"
+    ]
+  },
+  {
+    "fingerprint": "3c9434587c849d69dabadda6095ad6fe02e29ec1",
+    "canonical_id": "SBI-2023-F18-P001-Q009",
+    "members": [
+      "SBI-2023-F18-P001-Q009",
+      "SBI-2023-F19-P001-Q009",
+      "SBI-2023-F21-P001-Q009"
+    ],
+    "source_answers": [
+      "B",
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "f435bcef53ccd2ad74de8141516290a4947a3227",
+    "canonical_id": "SBI-2023-F18-P001-Q010",
+    "members": [
+      "SBI-2023-F18-P001-Q010",
+      "SBI-2023-F19-P001-Q010",
+      "SBI-2023-F21-P001-Q010"
+    ],
+    "source_answers": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "14d79a8040d51b303c75bd0f24599fd261b9072b",
+    "canonical_id": "SBI-2023-F18-P001-Q011",
+    "members": [
+      "SBI-2023-F18-P001-Q011",
+      "SBI-2023-F19-P001-Q011",
+      "SBI-2023-F21-P001-Q011"
+    ],
+    "source_answers": [
+      "A",
+      "A",
+      "A"
+    ]
+  },
+  {
+    "fingerprint": "1c4ea1fb45a41ada47c93f2a3f162bca93d600bf",
+    "canonical_id": "SBI-2023-F18-P001-Q012",
+    "members": [
+      "SBI-2023-F18-P001-Q012",
+      "SBI-2023-F19-P001-Q012",
+      "SBI-2023-F21-P001-Q012"
+    ],
+    "source_answers": [
+      "E",
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "3eb1876a6f14c0921d29ee2cc9f5b96808882229",
+    "canonical_id": "SBI-2023-F18-P001-Q013",
+    "members": [
+      "SBI-2023-F18-P001-Q013",
+      "SBI-2023-F19-P001-Q013"
+    ],
+    "source_answers": [
+      "D",
+      "D"
+    ]
+  },
+  {
+    "fingerprint": "8a75925569fade9fd2fa782f583037ffdfeb183a",
+    "canonical_id": "SBI-2023-F18-P001-Q015",
+    "members": [
+      "SBI-2023-F18-P001-Q015",
+      "SBI-2023-F21-P001-Q015"
+    ],
+    "source_answers": [
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "b0d53b1972229af20baa10c42c601ca151665339",
+    "canonical_id": "SBI-2023-F18-P001-Q016",
+    "members": [
+      "SBI-2023-F18-P001-Q016",
+      "SBI-2023-F21-P001-Q016"
+    ],
+    "source_answers": [
+      "D",
+      "D"
+    ]
+  },
+  {
+    "fingerprint": "7867c88f208d8339b3894fb716a2e49cd3b8828c",
+    "canonical_id": "SBI-2023-F18-P001-Q017",
+    "members": [
+      "SBI-2023-F18-P001-Q017",
+      "SBI-2023-F21-P001-Q017"
+    ],
+    "source_answers": [
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "99c92bfe3ed977e6795aa9bc0782f8e23e118b27",
+    "canonical_id": "SBI-2023-F18-P001-Q027",
+    "members": [
+      "SBI-2023-F18-P001-Q027",
+      "SBI-2023-F19-P001-Q027"
+    ],
+    "source_answers": [
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "586b8313587afb6ffbc8562f11d181def82c98b6",
+    "canonical_id": "SBI-2023-F18-P001-Q028",
+    "members": [
+      "SBI-2023-F18-P001-Q028",
+      "SBI-2023-F19-P001-Q028",
+      "SBI-2023-F21-P001-Q028"
+    ],
+    "source_answers": [
+      "A",
+      "A",
+      "A"
+    ]
+  },
+  {
+    "fingerprint": "aea75ed01fb526038854b1f339c3a35e2075ff03",
+    "canonical_id": "SBI-2023-F18-P001-Q029",
+    "members": [
+      "SBI-2023-F18-P001-Q029",
+      "SBI-2023-F19-P001-Q029",
+      "SBI-2023-F21-P001-Q029"
+    ],
+    "source_answers": [
+      "A",
+      "A",
+      "A"
+    ]
+  },
+  {
+    "fingerprint": "d58e14eb9c41425b874fd598a41190abbdf9f8cd",
+    "canonical_id": "SBI-2023-F18-P001-Q031",
+    "members": [
+      "SBI-2023-F18-P001-Q031",
+      "SBI-2023-F19-P001-Q031"
+    ],
+    "source_answers": [
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "70e8cc3c740d0f1f8eaf7c98a740ecbeab0fbd3a",
+    "canonical_id": "SBI-2023-F18-P001-Q032",
+    "members": [
+      "SBI-2023-F18-P001-Q032",
+      "SBI-2023-F19-P001-Q032"
+    ],
+    "source_answers": [
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "fe3eca9e381908cdc482bce46e3a64679d0c6e54",
+    "canonical_id": "SBI-2023-F18-P001-Q033",
+    "members": [
+      "SBI-2023-F18-P001-Q033",
+      "SBI-2023-F19-P001-Q033"
+    ],
+    "source_answers": [
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "795bbc5ad462754343c0419f6012a3c929177876",
+    "canonical_id": "SBI-2023-F18-P001-Q034",
+    "members": [
+      "SBI-2023-F18-P001-Q034",
+      "SBI-2023-F19-P001-Q034"
+    ],
+    "source_answers": [
+      "D",
+      "D"
+    ]
+  },
+  {
+    "fingerprint": "bd3e7966ca92370193842c8c4a5f3db6b8bb69eb",
+    "canonical_id": "SBI-2023-F18-P001-Q035",
+    "members": [
+      "SBI-2023-F18-P001-Q035",
+      "SBI-2023-F19-P001-Q035"
+    ],
+    "source_answers": [
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "2df67ea40526b037d50a4bf56360906397a5317e",
+    "canonical_id": "SBI-2023-F18-P001-Q036",
+    "members": [
+      "SBI-2023-F18-P001-Q036",
+      "SBI-2023-F19-P001-Q036"
+    ],
+    "source_answers": [
+      "A",
+      "A"
+    ]
+  },
+  {
+    "fingerprint": "0b4f26679e8a0d06adea4b2eedf44591c35292cf",
+    "canonical_id": "SBI-2023-F18-P001-Q037",
+    "members": [
+      "SBI-2023-F18-P001-Q037",
+      "SBI-2023-F19-P001-Q037"
+    ],
+    "source_answers": [
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "d48fdc3d4526a19187b7deef0999ef97f835679a",
+    "canonical_id": "SBI-2023-F18-P001-Q038",
+    "members": [
+      "SBI-2023-F18-P001-Q038",
+      "SBI-2023-F19-P001-Q038"
+    ],
+    "source_answers": [
+      "D",
+      "D"
+    ]
+  },
+  {
+    "fingerprint": "875758ac3e229568bcf28eb23f8f0425cfd5a06a",
+    "canonical_id": "SBI-2023-F18-P001-Q039",
+    "members": [
+      "SBI-2023-F18-P001-Q039",
+      "SBI-2023-F19-P001-Q039"
+    ],
+    "source_answers": [
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "565d022287d63b6bca7cfc6d271094d5a938b2c4",
+    "canonical_id": "SBI-2023-F18-P001-Q041",
+    "members": [
+      "SBI-2023-F18-P001-Q041",
+      "SBI-2023-F19-P001-Q041",
+      "SBI-2023-F21-P001-Q041"
+    ],
+    "source_answers": [
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "34f48c70beabfd9036385c2bbfa1cacacb94f803",
+    "canonical_id": "SBI-2023-F18-P001-Q042",
+    "members": [
+      "SBI-2023-F18-P001-Q042",
+      "SBI-2023-F19-P001-Q042",
+      "SBI-2023-F21-P001-Q042"
+    ],
+    "source_answers": [
+      "B",
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "90349fd08d83fa353bcd6416b32b547205e220d5",
+    "canonical_id": "SBI-2023-F18-P001-Q043",
+    "members": [
+      "SBI-2023-F18-P001-Q043",
+      "SBI-2023-F19-P001-Q043",
+      "SBI-2023-F21-P001-Q043"
+    ],
+    "source_answers": [
+      "E",
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "3c3555a602d210a610babd8b4e335c6f0f32b585",
+    "canonical_id": "SBI-2023-F18-P001-Q044",
+    "members": [
+      "SBI-2023-F18-P001-Q044",
+      "SBI-2023-F19-P001-Q044",
+      "SBI-2023-F21-P001-Q044"
+    ],
+    "source_answers": [
+      "E",
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "2f46d0a268a6cf8d60ddc87038e921d718676ca5",
+    "canonical_id": "SBI-2023-F18-P001-Q045",
+    "members": [
+      "SBI-2023-F18-P001-Q045",
+      "SBI-2023-F19-P001-Q045"
+    ],
+    "source_answers": [
+      "D",
+      "D"
+    ]
+  },
+  {
+    "fingerprint": "5b3077650c350f10cad5dc7cb0e1f7195091fc34",
+    "canonical_id": "SBI-2023-F18-P001-Q046",
+    "members": [
+      "SBI-2023-F18-P001-Q046",
+      "SBI-2023-F19-P001-Q046"
+    ],
+    "source_answers": [
+      "D",
+      "D"
+    ]
+  },
+  {
+    "fingerprint": "ef067c755877bab5fb118a0662ada7c97ff7a7e6",
+    "canonical_id": "SBI-2023-F18-P001-Q047",
+    "members": [
+      "SBI-2023-F18-P001-Q047",
+      "SBI-2023-F19-P001-Q047"
+    ],
+    "source_answers": [
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "166ba057895b8997e2d872252b027f73d905b92d",
+    "canonical_id": "SBI-2023-F18-P001-Q048",
+    "members": [
+      "SBI-2023-F18-P001-Q048",
+      "SBI-2023-F19-P001-Q048"
+    ],
+    "source_answers": [
+      "A",
+      "A"
+    ]
+  },
+  {
+    "fingerprint": "cdd9155357a3c12236626bdab060ded8cd14776a",
+    "canonical_id": "SBI-2023-F18-P001-Q050",
+    "members": [
+      "SBI-2023-F18-P001-Q050",
+      "SBI-2023-F19-P001-Q050"
+    ],
+    "source_answers": [
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "5566fd1e305eece4ad34c6812448b85b506ee141",
+    "canonical_id": "SBI-2023-F18-P001-Q066",
+    "members": [
+      "SBI-2023-F18-P001-Q066",
+      "SBI-2023-F19-P001-Q066"
+    ],
+    "source_answers": [
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "2a3c9145a217e60a695e7b1a1b43816c0ecb0aa3",
+    "canonical_id": "SBI-2023-F18-P001-Q067",
+    "members": [
+      "SBI-2023-F18-P001-Q067",
+      "SBI-2023-F19-P001-Q067"
+    ],
+    "source_answers": [
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "8fc2810b9d1830b635ac2b6619299c4bde833628",
+    "canonical_id": "SBI-2023-F18-P001-Q068",
+    "members": [
+      "SBI-2023-F18-P001-Q068",
+      "SBI-2023-F19-P001-Q068"
+    ],
+    "source_answers": [
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "64fd1a071869f703d1983aef88b588419a8adbe1",
+    "canonical_id": "SBI-2023-F18-P001-Q069",
+    "members": [
+      "SBI-2023-F18-P001-Q069",
+      "SBI-2023-F19-P001-Q069"
+    ],
+    "source_answers": [
+      "A",
+      "A"
+    ]
+  },
+  {
+    "fingerprint": "25a90d33bad6f166a0fae68aa831ca49b4d9b3a4",
+    "canonical_id": "SBI-2023-F18-P001-Q070",
+    "members": [
+      "SBI-2023-F18-P001-Q070",
+      "SBI-2023-F19-P001-Q070"
+    ],
+    "source_answers": [
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "eeb694d431af22eef9d91d604275ab3da77476ee",
+    "canonical_id": "SBI-2023-F18-P001-Q071",
+    "members": [
+      "SBI-2023-F18-P001-Q071",
+      "SBI-2023-F19-P001-Q071"
+    ],
+    "source_answers": [
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "d5cfdf15e9f183299a7854d996498b33272db2e1",
+    "canonical_id": "SBI-2023-F18-P001-Q072",
+    "members": [
+      "SBI-2023-F18-P001-Q072",
+      "SBI-2023-F19-P001-Q072"
+    ],
+    "source_answers": [
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "1c80062af1b7f88f2758a55128ac1f86ef11bb9c",
+    "canonical_id": "SBI-2023-F18-P001-Q073",
+    "members": [
+      "SBI-2023-F18-P001-Q073",
+      "SBI-2023-F19-P001-Q073"
+    ],
+    "source_answers": [
+      "D",
+      "D"
+    ]
+  },
+  {
+    "fingerprint": "00b92e54573d74c15fc8389f425f7460eee911e3",
+    "canonical_id": "SBI-2023-F18-P001-Q074",
+    "members": [
+      "SBI-2023-F18-P001-Q074",
+      "SBI-2023-F19-P001-Q074"
+    ],
+    "source_answers": [
+      "A",
+      "A"
+    ]
+  },
+  {
+    "fingerprint": "e6d84cd177c7a2ff45accbd263764e6a1d4bbf14",
+    "canonical_id": "SBI-2023-F18-P001-Q076",
+    "members": [
+      "SBI-2023-F18-P001-Q076",
+      "SBI-2023-F19-P001-Q076"
+    ],
+    "source_answers": [
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "ac7cf01052028551bb9728a72e985275fd4c7bb0",
+    "canonical_id": "SBI-2023-F18-P001-Q077",
+    "members": [
+      "SBI-2023-F18-P001-Q077",
+      "SBI-2023-F19-P001-Q077"
+    ],
+    "source_answers": [
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "b98c4a612c56244e249c02b5cb163c0af2c2dbb4",
+    "canonical_id": "SBI-2023-F18-P001-Q078",
+    "members": [
+      "SBI-2023-F18-P001-Q078",
+      "SBI-2023-F19-P001-Q078"
+    ],
+    "source_answers": [
+      "D",
+      "D"
+    ]
+  },
+  {
+    "fingerprint": "bcde6b001ff7c47f48c270a900f099c36bb209a7",
+    "canonical_id": "SBI-2023-F18-P001-Q079",
+    "members": [
+      "SBI-2023-F18-P001-Q079",
+      "SBI-2023-F19-P001-Q079"
+    ],
+    "source_answers": [
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "2ec1ca79610b1751d0a13e513ca75bbda0c4cf6e",
+    "canonical_id": "SBI-2023-F18-P001-Q080",
+    "members": [
+      "SBI-2023-F18-P001-Q080",
+      "SBI-2023-F19-P001-Q080"
+    ],
+    "source_answers": [
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "bb5a8ca6a190e6f08e9102e58f0614873c28e6d8",
+    "canonical_id": "SBI-2023-F18-P001-Q081",
+    "members": [
+      "SBI-2023-F18-P001-Q081",
+      "SBI-2023-F19-P001-Q081"
+    ],
+    "source_answers": [
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "fa7c960afe7c110ef227e9c369a6f3480d6f1592",
+    "canonical_id": "SBI-2023-F18-P001-Q082",
+    "members": [
+      "SBI-2023-F18-P001-Q082",
+      "SBI-2023-F19-P001-Q082"
+    ],
+    "source_answers": [
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "d21f59e26ea478a1a4a1a7de630662b9dff049ac",
+    "canonical_id": "SBI-2023-F18-P001-Q083",
+    "members": [
+      "SBI-2023-F18-P001-Q083",
+      "SBI-2023-F19-P001-Q083"
+    ],
+    "source_answers": [
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "444e76cb9184b230bc13dabde65cdbfddb74af1b",
+    "canonical_id": "SBI-2023-F18-P001-Q084",
+    "members": [
+      "SBI-2023-F18-P001-Q084",
+      "SBI-2023-F19-P001-Q084"
+    ],
+    "source_answers": [
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "83541a72b5d37c69f44f0b715c55747295e90b6b",
+    "canonical_id": "SBI-2023-F18-P001-Q086",
+    "members": [
+      "SBI-2023-F18-P001-Q086",
+      "SBI-2023-F19-P001-Q086"
+    ],
+    "source_answers": [
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "bb604ce2405afcc1c6985fe5e41f81327f1710f7",
+    "canonical_id": "SBI-2023-F18-P001-Q087",
+    "members": [
+      "SBI-2023-F18-P001-Q087",
+      "SBI-2023-F19-P001-Q087"
+    ],
+    "source_answers": [
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "51c3e5296c123db9fbdd8017dbf94b95bf6f40df",
+    "canonical_id": "SBI-2023-F18-P001-Q089",
+    "members": [
+      "SBI-2023-F18-P001-Q089",
+      "SBI-2023-F19-P001-Q089"
+    ],
+    "source_answers": [
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "30e65964e25fd6dd99d6240e9bda94b5a0e36cbe",
+    "canonical_id": "SBI-2023-F18-P001-Q090",
+    "members": [
+      "SBI-2023-F18-P001-Q090",
+      "SBI-2023-F19-P001-Q090"
+    ],
+    "source_answers": [
+      "D",
+      "D"
+    ]
+  },
+  {
+    "fingerprint": "23fbff0c537c7761208ac314bb739f749c3cd005",
+    "canonical_id": "SBI-2023-F18-P001-Q091",
+    "members": [
+      "SBI-2023-F18-P001-Q091",
+      "SBI-2023-F19-P001-Q091"
+    ],
+    "source_answers": [
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "0bf06fa13bf6344d05faac48780c168c4dc0cd02",
+    "canonical_id": "SBI-2023-F18-P001-Q092",
+    "members": [
+      "SBI-2023-F18-P001-Q092",
+      "SBI-2023-F19-P001-Q092"
+    ],
+    "source_answers": [
+      "D",
+      "D"
+    ]
+  },
+  {
+    "fingerprint": "11f289799eda83e1cf6f1214a04b5a5dc1707f16",
+    "canonical_id": "SBI-2023-F18-P001-Q093",
+    "members": [
+      "SBI-2023-F18-P001-Q093",
+      "SBI-2023-F19-P001-Q093"
+    ],
+    "source_answers": [
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "ea05eab83557bcd8a2c0bcd12f608a6cd0cceb89",
+    "canonical_id": "SBI-2023-F18-P001-Q094",
+    "members": [
+      "SBI-2023-F18-P001-Q094",
+      "SBI-2023-F19-P001-Q094"
+    ],
+    "source_answers": [
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "352b9e2f01abffd4ff8c8a2467f4b7295544ddfc",
+    "canonical_id": "SBI-2023-F18-P001-Q095",
+    "members": [
+      "SBI-2023-F18-P001-Q095",
+      "SBI-2023-F19-P001-Q095"
+    ],
+    "source_answers": [
+      "B",
+      "B"
+    ]
+  },
+  {
+    "fingerprint": "ffe151ebf20749f1f2b768d2e95a5ccc7d3065a4",
+    "canonical_id": "SBI-2023-F18-P001-Q096",
+    "members": [
+      "SBI-2023-F18-P001-Q096",
+      "SBI-2023-F19-P001-Q096"
+    ],
+    "source_answers": [
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "1f09123a28705140988df8e7c5e3e69e03cc37a6",
+    "canonical_id": "SBI-2023-F18-P001-Q098",
+    "members": [
+      "SBI-2023-F18-P001-Q098",
+      "SBI-2023-F19-P001-Q098"
+    ],
+    "source_answers": [
+      "A",
+      "A"
+    ]
+  },
+  {
+    "fingerprint": "11f26c7b8613ef8ac021e653945b08d7580de821",
+    "canonical_id": "SBI-2023-F18-P001-Q099",
+    "members": [
+      "SBI-2023-F18-P001-Q099",
+      "SBI-2023-F19-P001-Q099"
+    ],
+    "source_answers": [
+      "C",
+      "C"
+    ]
+  },
+  {
+    "fingerprint": "8e1850fb7eca3546bb81e4bcad648717d1f7db12",
+    "canonical_id": "SBI-2023-F18-P001-Q100",
+    "members": [
+      "SBI-2023-F18-P001-Q100",
+      "SBI-2023-F19-P001-Q100"
+    ],
+    "source_answers": [
+      "E",
+      "E"
+    ]
+  },
+  {
+    "fingerprint": "a61ab8cc220bfcc587705f7496ae4d2393f0aa30",
+    "canonical_id": "SBI-2023-F19-P001-Q030",
+    "members": [
+      "SBI-2023-F19-P001-Q030",
+      "SBI-2023-F21-P001-Q030"
+    ],
+    "source_answers": [
+      "D",
+      "D"
+    ]
+  }
+]
